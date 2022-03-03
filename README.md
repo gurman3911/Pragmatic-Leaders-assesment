@@ -12,5 +12,4 @@ You need to type this command on your command prompt to activate a local server 
 
 
 # Screen Shot
-
-[Screenshot (27)](https://user-images.githubusercontent.com/92256902/156638168-0566a8e1-4976-4b61-b19b-e5fdb6148c83.png)
+(https://user-images.githubusercontent.com/92256902/156638168-0566a8e1-4976-4b61-b19b-e5fdb6148c83.png)
